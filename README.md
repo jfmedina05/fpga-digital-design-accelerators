@@ -65,14 +65,14 @@ The work spans:
 
 ### Project 8 – Pipelined Dot Product
 - Optimized hardware using pipelining
-- Increased throughput via staged execution :contentReference[oaicite:0]{index=0}  
+- Increased throughput via staged execution
 
 ---
 
 ### Project 9 – Parallel Dot Product Accelerator
 - Introduced parallelism to dot product hardware
 - Combined pipelining + parallel compute units
-- Evaluated performance across matrix sizes :contentReference[oaicite:1]{index=1}  
+- Evaluated performance across matrix sizes
 
 ---
 
