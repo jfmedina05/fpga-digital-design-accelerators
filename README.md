@@ -1,5 +1,27 @@
 # FPGA Digital Design & Hardware Acceleration Projects
 
+<p align="center">
+  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-FF6F00?logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img alt="Vivado" src="https://img.shields.io/badge/Vivado-F79500?logo=amd&logoColor=white">
+  <img alt="PYNQ" src="https://img.shields.io/badge/PYNQ-00843D?logo=xilinx&logoColor=white">
+  <img alt="FPGA" src="https://img.shields.io/badge/FPGA-Hardware%20Acceleration-1E4D8C?logoColor=white">
+  <img alt="AXI4-Lite" src="https://img.shields.io/badge/AXI4--Lite-MMIO-4B0082?logoColor=white">
+  <img alt="AXI-Stream" src="https://img.shields.io/badge/AXI--Stream-Data%20Movement-4B0082?logoColor=white">
+  <img alt="AXI DMA" src="https://img.shields.io/badge/AXI%20DMA-High%20Throughput-4B0082?logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img alt="MMIO" src="https://img.shields.io/badge/MMIO-Memory%20Mapped%20I%2FO-2C8EBB?logoColor=white">
+  <img alt="mmap" src="https://img.shields.io/badge/mmap-Userspace%20Access-2C8EBB?logoColor=white">
+  <img alt="Pipelining" src="https://img.shields.io/badge/Pipelining-Datapaths-6f42c1?logoColor=white">
+  <img alt="Parallelism" src="https://img.shields.io/badge/Parallelism-Compute%20Units-6f42c1?logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
+</p>
+
 A collection of FPGA digital design and hardware acceleration projects focused on SystemVerilog, AXI interfaces, DMA-based data transfer, memory-mapped I/O, embedded C drivers, pipelining, parallelism, and high-performance computation.
 
 This repository documents a progression from software-based computation to FPGA-accelerated hardware systems. The projects begin with algorithmic implementation and C optimization, then move into custom FPGA accelerators, AXI-Stream and AXI4-Lite interfaces, DMA pipelines, Linux userspace hardware control, and parallel hardware datapaths.
